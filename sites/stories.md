@@ -9,4 +9,5 @@
 [Иммиграция и жизнь в Польше](https://sohabr.net/habr/post/294110/)  
 [Эмиграция в Польшу как студент либо как фрилансер](https://habrahabr.ru/post/164783/)  
 [Валить в Польшу?](http://pora-valit.livejournal.com/4315653.html)  
-[Переезд в Польшу - не все сразу!](http://pora-valit.livejournal.com/3237005.html)
+[Переезд в Польшу - не все сразу!](http://pora-valit.livejournal.com/3237005.html)  
+[Познань глазами программиста](http://telegra.ph/Poznan-glazami-programmista-08-19-2)
