@@ -1,5 +1,6 @@
 # Истории переезда в Польшу
 
+[Как и зачем мы переехали в Польшу](https://olyapka.ru/2015/02/kak-i-zachem-my-pereekhali-v-polshu/)  
 [Рассказ о релокации в Гданьск/Триградие](https://dou.ua/forums/topic/20011/)  
 [Как я переехал в Польшу и вернулся назад: несколько причин не эмигрировать за границу](https://dou.ua/lenta/articles/dont-move-abroad/)  
 [Переезд фрилансера в Польшу: личный опыт](https://dou.ua/lenta/articles/poland-for-freelancer/)  
