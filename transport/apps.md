@@ -1,4 +1,4 @@
-# Полезные приложения
+# Полезные приложения и ссылки
 
 [https://jakdojade.pl](https://jakdojade.pl/warszawa/trasa/) - расписание городских видов транспорта + прокладка маршрута по городу. Обязательное приложение любого иммигранта и туриста в Польше. 
 - [Android](https://play.google.com/store/apps/details?id=com.citynav.jakdojade.pl.android)
@@ -15,4 +15,9 @@
 - [Android](https://play.google.com/store/apps/details?id=pl.mobicore.mobilempk)
 
 [http://maps.me](http://maps.me) - оффлайн-карты, после загрузки карт работают без интернета:
- - [версия на для смартфонов](http://maps.me/en/download)
+ - [версия на для смартфонов](http://maps.me/en/download)  
+
+[biletylotnicze.pl](http://www.biletylotnicze.pl/) - поиск и покупка авиаблетов 
+
+[e-podroznik.pl](https://e-podroznik.pl/) - сервис с поиском рейсов между городами различными средствами транспорта
+
