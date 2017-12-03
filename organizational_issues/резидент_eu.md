@@ -8,3 +8,5 @@
 [Rozdział 2 Zezwolenie na pobyt rezydenta długoterminowego UE Ustawy o cudzoziemcach](официальные_источники.md) от артикула 211.
 
 Подробнее с процедурой оформления разрешения на проживание долгосрочного резидента ЕС можно ознакомиться в [Разъяснении для иностранцев о принципах и порядке действий, а также о правах и обязанностях](https://www.mazowieckie.pl/download/1/42796/file.pdf) со страницы 53 по страницу 61.
+
+[Zezwolenie na pobyt rezydenta długoterminowego UE (PL)](http://www.migrapolis.pl/pl/dzialy-tematyczne/zezwolenie-na-pobyt/zezwolenie-na-pobyt-rezydenta-dlugoterminowego-ue)  

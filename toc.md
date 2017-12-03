@@ -1,5 +1,11 @@
 # Содержание
 
+## Справочники, брошюры
+
+[Общие темы](booklets/general.md)  
+[Работа](booklets/work.md)  
+[Убежище/Беженство](booklets/refugees.md)  
+
 ## Организационные вопросы
 
 [Официальные источники информации](organizational_issues/официальные_источники.md)  
@@ -9,6 +15,11 @@
 [Присяжный перевод документов](organizational_issues/присяжный_перевод.md)  
 [Получение PESEL](organizational_issues/pesel.md)  
 [Официальные электронные порталы](organizational_issues/services.md)
+
+## Дополнительная юридическая информация
+
+[Блоги и сайты юристов](legal/blogs.md)  
+[Юридическая помощь](legal/help.md)
 
 ## Работа
 
@@ -20,7 +31,6 @@
 [Оформление освядчения](work/оформление_освядчения.md)  
 [Оформление разрешение на работу в связи с исполняемой функцией члена правления предприятия/общества (Тип В)](work/разрешение_для_директора.md)  
 [Тест рынка труда](work/тест_рынка_труда.md)  
-
 
 ## Бизнес
 
@@ -43,9 +53,11 @@
 [Беременность и роды](medicine/беременность_и_роды.md)  
 [Врачи и больницы](medicine/врачи_и_больницы.md)
 
-## Дети
+## Семья и дети
 
-[Переезд с детьми](children/children.md)  
+[Переезд с детьми](family/children.md)  
+[Семья](family/family.md)  
+[Книги для детей](http://www.opolsce.eu/publikacje/adresat/dla-dzieci)  
 
 ## Обучение
 
@@ -59,7 +71,9 @@
 
 ## Мобильная связь/Интернет
 
-[Мобильная связь](mobile_internet/мобильная_связь.md)  
+[Мобильная связь](mobile_internet/mobile_network.md)  
+[Мобильный интернет](https://texnoera.com/internet/drugoe/internet-v-polshe.html)  
+[Интернет](mobile_internet/internet.md)  
 
 ## Транспорт, Автомобили
 
@@ -67,6 +81,10 @@
 [Транспорт по городам](transport/транспорт_в_городах.md)  
 [Полезные приложения и ссылки](transport/apps.md)  
 [Информация об авто по номеру VIN](https://historiapojazdu.gov.pl/strona-glowna)
+
+## Покупки
+
+[Возврат TAX-FREE](shopping/tax-free.md)
 
 ## Экология
 
