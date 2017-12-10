@@ -14,7 +14,8 @@
 [Оформление разрешения на пребывание долгосрочного резидента ЕС](organizational_issues/резидент_eu.md)  
 [Присяжный перевод документов](organizational_issues/присяжный_перевод.md)  
 [Получение PESEL](organizational_issues/pesel.md)  
-[Официальные электронные порталы](organizational_issues/services.md)
+[Официальные электронные порталы](organizational_issues/services.md)  
+[Социальные пособия и материальная помощь](https://yadi.sk/i/KWWzbaqa3QVNkW)  
 
 ## Дополнительная юридическая информация
 
@@ -58,6 +59,10 @@
 [Переезд с детьми](family/children.md)  
 [Семья](family/family.md)  
 [Книги для детей](http://www.opolsce.eu/publikacje/adresat/dla-dzieci)  
+
+## Нострификация дипломов
+
+[Нострификация медицинского диплома](https://yadi.sk/i/CXNKtHEG3QVNZg)  
 
 ## Обучение
 
