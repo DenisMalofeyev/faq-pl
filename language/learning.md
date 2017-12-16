@@ -7,6 +7,7 @@
 ## Сайты
 
 [Платформа обучения Polskijazyk.pl](http://www.polskijazyk.pl/)  
+[Kurs języka polskiego](http://popolskupopolsce.edu.pl/kurs-jezyka-polskiego)  
 [PROpolski](http://propolski.com/)  
 [Olz.by, Польша и польский язык](http://olz.by/category/uroki)  
 [Polski Slowka](http://www.polski.slowka.pl/)  
