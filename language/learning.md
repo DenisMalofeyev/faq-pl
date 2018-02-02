@@ -54,6 +54,7 @@ Torrent: [Hurra1](https://rutracker.org/forum/viewtopic.php?t=2162984), [Hurra2]
 [Wikisłownik](https://pl.wiktionary.org/)  
 [Słownik języka polskiego](https://sjp.pl/)  
 [Słownik języka polskiego PWN](http://sjp.pwn.pl/)  
+[Bab.la](https://pl.bab.la/slownik/rosyjski-polski/)  
 [Odmiana przez przypadki](http://odmiana.net/)  
 [Słownik slangu i mowy potocznej](http://www.miejski.pl/)
 
@@ -64,31 +65,49 @@ Torrent: [Hurra1](https://rutracker.org/forum/viewtopic.php?t=2162984), [Hurra2]
 [pilot.wp.pl](https://pilot.wp.pl/tv)  
 [tvp1-online.blogspot.com](http://tvp1-online.blogspot.com/)  
 [darmowetv.pl](https://www.darmowetv.pl/tele.php)  
+[Tele-wizja.is](http://tele-wizja.is/)  
 
-## Фильмы
+## Порталы с фильмами
 
 [Портал с фильмами и сериалами](https://www.cda.pl/)  
-[Польское кино: списки + анонсы НОВЫХ раздач](https://rutracker.org/forum/viewtopic.php?t=2836856)  
 [Онлайн кинотеатр EKino](http://ekino-tv.pl/)  
 [Youtube-канал superfilm.pl](https://www.youtube.com/channel/UC7A5iwFhh5dLvo49geBhQ_Q/videos)  
-[Sami swoi](https://www.youtube.com/watch?v=XXUqPQRfyLI)  
-[Nie ma mocnych](https://www.youtube.com/watch?v=5Ol8fY4o6F4)  
-[Mocna Kawa Wcale Nie Jest Taka Zła](https://www.youtube.com/watch?v=aSFKxsJiiLQ)  
 
-## Сериалы
+## Порталы с сериалами
 
 [Сериалы online](http://serialnet.pl/)  
-[Rodzinka pl](https://vod.tvp.pl/website/rodzinkapl,3994794)  
-[Pitbull](https://vod.tvp.pl/website/pitbull,1667836)  
-[Blondynka](https://vod.tvp.pl/website/blondynka,1667885)  
-[Prawo Agaty](http://prawoagaty.tvn.pl/)
-[Przepis na życie](https://player.pl/seriale-online/przepis-na-zycie-odcinki,158/)  
-[Fala zbrodni](https://www.ipla.tv/Serial/5000914-Kryminalny/834-Fala-Zbrodni)  
+[Paczamy.pl](http://paczamy.pl/)  
+
+## Подскасты
+
+### Изучение языка
+[Learn Real Polish](https://realpolish.pl/tag/polish-listening/)  
+
+### Общая тематика
+[Nerdy nocą](http://nerdynoca.pl/)  
+[Zombie vs Zwierz](http://www.podsluchane.pl/zvz/)  
+
+### Саморазвитие, психология
+[Jak oszczędzać pieniądze?](http://jakoszczedzacpieniadze.pl/podcast)  
+[Lepiej Teraz](http://www.lepiejteraz.pl/blog-2/)  
+
+### Авто, мото
+[DoDechy Podcast](http://dodechypodcast.pl/category/dodechy-podcast/)  
+
+### IT
+[DevTalk](http://devtalk.pl/)  
+[Ostra piła](https://ostrapila.pl/)  
+[Niebezpiecznik](https://niebezpiecznik.pl/podcast/)  
+[Cyber Cyber(Fundacja Bezpieczna Cyberprestrzeń)](https://www.cybsecurity.org/pl/category/podcast/)  
 
 ## Радио
 
 [Польское радио](http://www.polskieradio.pl/)  
 [Стримы польских радиостанций](http://www.listenlive.eu/poland.html)
+
+## Приложения для телефона
+
+Tandem - [Goolge Play](https://play.google.com/store/apps/details?id=net.tandem)  
 
 ## Прочее
 

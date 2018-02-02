@@ -18,4 +18,5 @@
 [Воссоединение семей иностранцев в Польше: законодательство и практика](https://yadi.sk/i/jZgivoGf3QHHvX)  
 Видео [ПЕРЕЕЗД С РЕБЕНКОМ В ПОЛЬШУ/ ЧТО НУЖНО ЗНАТЬ?](https://www.youtube.com/watch?v=riPDWPZrAZo) от Olga Kolinko  
 [Портал с информацией "Rodzina 500 plus"](https://www.mpips.gov.pl/wsparcie-dla-rodzin-z-dziecmi/rodzina-500-plus/)  
-[Официальные интернет-сервисы для родителей](https://obywatel.gov.pl/dzieci)
+[Официальные интернет-сервисы для родителей](https://obywatel.gov.pl/dzieci)  
+[Serwis poświęcony półkoloniom dla dzieci](http://polkolonie.pl/)  
