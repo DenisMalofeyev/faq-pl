@@ -1,7 +1,7 @@
 # FAQ по Польше
 
-Данный репозиторий содержит информацию связанную с Польшей.
-Надеюсь, данный справочник будет полезен тем кто проживает в Польше, планирует переезд в эту страну или только-только выбирает страну для миграции. 
+Данный репозиторий содержит информацию связанную с Польшей.  
+Надеемся, данный справочник будет полезен тем, кто проживает в Польше, планирует переезд в эту страну или только в процессе выбора места для жизни.  
 
 # [Список разделов справочника](toc.md)
 
@@ -9,5 +9,10 @@
 [License](LICENSE.md)  
 
 ## Контакты:
-E-mail: `prianichnikov{точка}maksim{собака}gmail{точка}com`  
-Telegram: [@prianichnikov](https://t.me/prianichnikov)  
+E-mail:  
+[Maksim Prianichnikov (prianichnikov.maksim@gmail.com)](mailto::prianichnikov.maksim@gmail.com)  
+[Alena Prianichnikova (as.prianichnikova@gmail.com)](mailto::as.prianichnikova@gmail.com)  
+
+Telegram:  
+[@prianichnikov](https://t.me/prianichnikov)  
+[@prianichnikova](https://t.me/prianichnikova)  
