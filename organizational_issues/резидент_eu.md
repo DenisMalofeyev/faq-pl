@@ -10,3 +10,4 @@
 Подробнее с процедурой оформления разрешения на проживание долгосрочного резидента ЕС можно ознакомиться в [Разъяснении для иностранцев о принципах и порядке действий, а также о правах и обязанностях](https://www.mazowieckie.pl/download/1/42796/file.pdf) со страницы 53 по страницу 61.
 
 [Zezwolenie na pobyt rezydenta długoterminowego UE (PL)](http://www.migrapolis.pl/pl/dzialy-tematyczne/zezwolenie-na-pobyt/zezwolenie-na-pobyt-rezydenta-dlugoterminowego-ue)  
+[Ответы на часто задаваемые вопросы по данной теме](https://mazowieckie.pl/pl/dla-klienta/cudzoziemcy/zezwolenia-na-pobyt/zezwolenie-na-pobyt-re/34807,Najczesciej-zadawane-pytania.html)  

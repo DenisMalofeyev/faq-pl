@@ -48,9 +48,7 @@
 
 [Выбор формы налогообложения](https://poradnikprzedsiebiorcy.pl/-formy-opodatkowania-jaka-wybrac)  
 
-## Карта поляка
-
-[Примерные вопросы на собеседовании на Карту Поляка](https://yadi.sk/i/5XB1-edv3QgDze)  
+## [Карта поляка](poles_card/info.md)
 
 ## Жилье/Недвижимость
 
