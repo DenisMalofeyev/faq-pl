@@ -22,6 +22,7 @@
 
 ## Учебники
 
+[Сборник учебников польского языка для разных уровней](https://drive.google.com/drive/folders/0BzV6nh9jezaRVVVQMFl0MkQ0R1k)  
 [Krok po kroku polski](http://polskikrokpokroku.pl/)  
 Torrent: [rutracker.org](https://rutracker.org/forum/viewtopic.php?t=4452468)  
 [Hurra!!!](http://prologpublishing.com/category/hurra)  
@@ -58,52 +59,32 @@ Torrent: [Hurra1](https://rutracker.org/forum/viewtopic.php?t=2162984), [Hurra2]
 [Odmiana przez przypadki](http://odmiana.net/)  
 [Słownik slangu i mowy potocznej](http://www.miejski.pl/)
 
-## Телевидение
-
-[weeb.tv](http://weeb.tv/channels)  
-[yoy.tv](https://yoy.tv/)  
-[pilot.wp.pl](https://pilot.wp.pl/tv)  
-[tvp1-online.blogspot.com](http://tvp1-online.blogspot.com/)  
-[darmowetv.pl](https://www.darmowetv.pl/tele.php)  
-[Tele-wizja.is](http://tele-wizja.is/)  
-
-## Порталы с фильмами
-
-[Портал с фильмами и сериалами](https://www.cda.pl/)  
-[Онлайн кинотеатр EKino](http://ekino-tv.pl/)  
-[Youtube-канал superfilm.pl](https://www.youtube.com/channel/UC7A5iwFhh5dLvo49geBhQ_Q/videos)  
-
-## Порталы с сериалами
-
-[Сериалы online](http://serialnet.pl/)  
-[Paczamy.pl](http://paczamy.pl/)  
-
 ## Подскасты
 
 ### Изучение языка
+
 [Learn Real Polish](https://realpolish.pl/tag/polish-listening/)  
 
 ### Общая тематика
+
 [Nerdy nocą](http://nerdynoca.pl/)  
 [Zombie vs Zwierz](http://www.podsluchane.pl/zvz/)  
 
 ### Саморазвитие, психология
+
 [Jak oszczędzać pieniądze?](http://jakoszczedzacpieniadze.pl/podcast)  
 [Lepiej Teraz](http://www.lepiejteraz.pl/blog-2/)  
 
 ### Авто, мото
+
 [DoDechy Podcast](http://dodechypodcast.pl/category/dodechy-podcast/)  
 
 ### IT
+
 [DevTalk](http://devtalk.pl/)  
 [Ostra piła](https://ostrapila.pl/)  
 [Niebezpiecznik](https://niebezpiecznik.pl/podcast/)  
 [Cyber Cyber(Fundacja Bezpieczna Cyberprestrzeń)](https://www.cybsecurity.org/pl/category/podcast/)  
-
-## Радио
-
-[Польское радио](http://www.polskieradio.pl/)  
-[Стримы польских радиостанций](http://www.listenlive.eu/poland.html)
 
 ## Приложения для телефона
 
