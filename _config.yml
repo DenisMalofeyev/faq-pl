@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 
 # Google analytics
-site.google_analytics: UA-105716131-2
+google_analytics: UA-105716131-2
